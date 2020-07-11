@@ -8,4 +8,7 @@ You control the Ball to catch all golden blocks around the screen within countdo
 If you new to Unity3D, you can use this project to learn about engine physics, forces, sound, timers, scenes and Camera positions.
 
 # 3rd party Assets
-The background music is from SEGA Genesis Streets of Rage opening theme. Since this is not a commercial project, hope it causes not problem. All other assets are jpg images used as texture for the ball, background tabletop and walls. 
+The background music is from SEGA Genesis Streets of Rage opening theme. Since this is not a commercial project, hope it causes not problem. All other assets are jpg images used as texture for the ball, background, tabletop, ramps and walls. 
+
+# Platforms
+The game was intended to run in Android phones with Android Marshmallow (Version 6 - API Level 23), but using Unity3D, you can deploy it on Windows, WebGL, Linux, and other supported platforms. At ./Build/Android/ directory, it have a builded apk for testing. You can copy it directly to your Android Device an play it using accelerometer.
