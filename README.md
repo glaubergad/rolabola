@@ -1,5 +1,5 @@
 # rolabola
-Unity 3D project based on Unity tutorial Roll-a-ball. Made to be presented as final test for Digital Game Programming course on IFPA Systems Analysis and Development Graduation.
+Unity 3D project based on Unity Roll-a-ball tutorial. Made to be presented as final test for Digital Game Programming course on IFPA Systems Analysis and Development Graduation.
 
 # What it does:
 You control the Ball to catch all golden blocks around the screen within countdown time. If you do it, it takes you to the next and more challenging level.
